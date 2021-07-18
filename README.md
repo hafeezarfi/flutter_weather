@@ -34,15 +34,15 @@ flutter_weather
 
 |-- lib/
 
-  |-- search/
+-  |-- search/
 
-  |-- settings/
+-  |-- settings/
   
-  |-- theme/
+-  |-- theme/
   
-  |-- weather/
+-  |-- weather/
   
-  |-- main.dart
+-  |-- main.dart
 
 |-- test/
 
