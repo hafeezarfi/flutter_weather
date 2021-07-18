@@ -31,12 +31,19 @@ We're going to build a Weather app in Flutter which demonstrates how to manage m
 Our app can be broken down into four main features: search, settings, theme, weather. Let's create those directories.
 
 flutter_weather
+
 |-- lib/
+
   |-- search/
+
   |-- settings/
+  
   |-- theme/
+  
   |-- weather/
+  
   |-- main.dart
+
 |-- test/
 
 ## Architecture
