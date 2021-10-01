@@ -16,5 +16,3 @@ void main() async{
   );
   runApp(WeatherApp(weatherRepository:WeatherRepository()));
 }
-
-

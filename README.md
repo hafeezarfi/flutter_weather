@@ -1,3 +1,10 @@
+<img src="./screenshots/photo_2021-10-01_09-41-14.jpg" alt="Weather Dubai" style="height: 100px; width:100px;"/>
+<img src="./screenshots/photo_2021-10-01_09-41-12.jpg" alt="Weather San Francisco" style="height: 100px; width:100px;"/>
+<img src="./screenshots/photo_2021-10-01_09-40-56.jpg" alt="City Search" style="height: 100px; width:100px;"/>
+<img src="./screenshots/photo_2021-10-01_09-41-01.jpg" alt="City Search" style="height: 100px; width:100px;"/>
+<img src="./screenshots/photo_2021-10-01_09-41-03.jpg" alt="Settings" style="height: 100px; width:100px;"/>
+<img src="./screenshots/photo_2021-10-01_09-41-09.jpg" alt="Settings" style="height: 100px; width:100px;"/>
+
 # flutter_weather
 
 A new Flutter project.

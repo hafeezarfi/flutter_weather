@@ -29,7 +29,7 @@ class WeatherView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Flutter Weather'),
+        title: const Text('FLUTTER WEATHER'),
         actions: [
           IconButton(
             onPressed: () {
